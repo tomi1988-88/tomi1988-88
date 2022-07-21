@@ -1,0 +1,281 @@
+{
+
+    0: [
+
+        "Data rozstrzygnięcia", "Sygnatura akt", "Sąd", "Rodzaj rozstrzygnięcia", "Nazwa Przedsiębiorcy", "Zakres", ["Słowa", "kluczowe"],
+
+        "Praktyki / klauzule / zachowania bezprawne stwierdzone przez DOZiK", "Główne zarzuty strony", "Tezy sądu", "Dotyczy wyroku/postanowienia sądu",
+
+        "Numer decyzji/postanowienia", "Data wydania decyzji", "Link do wyroku Word", "Link do wyroku Pdf"
+
+    ],
+
+
+
+    1: [
+
+        "23.02.2022",
+
+        "I NSK 16/21",
+
+        "NSA",
+
+        "Postanowienie",
+
+        "Przedsiębiorstwo Handlowo-Usługowe Jubiler sp. z o.o. z siedzibą w Warszawie",
+
+        "Konkurencja",
+
+        ["NSA", "kasacja", "istotne zagadnienie prawne"],
+
+        "-",
+
+        "Czy dopuszczalne i zgodne z art. 6 ust. 1 i 3 EKPCz jest stwierdzenie przez Prezesa Urzędu Ochrony Konkurencji i Konsumentów w decyzji kończącej postępowanie antymonopolowe praktyki ograniczającej konkurencję, która nie była przedmiotem pierwotnego postanowienia o wszczęciu postępowania antymonopolowego, a następnie utrzymanie przedmiotowej decyzji w mocy w postępowaniu sądowym w wyniku rozpoznania sprawy de novo przez sąd?"
+
+        ,"W sprawie nie występuje istotne zagadnienie prawne, więc skarga nie zasługuje na rozpoznanie. Wg poglądu NSA: Prezes UOKiK nie jest bezwzględnie związany treścią postanowienia o wszczęciu postępowania co oznacza, że w toku postępowania antymonopolowego możliwa jest zmiana tego postanowienia w szczególności poprzez zmianę lub uzupełnienie podstawy prawnej kwalifikacji zachowania przedsiębiorcy czy modyfikację rynku właściwego, o ile zapewniono stronie możliwość ustosunkowania się w tym zakresie przed wydaniem decyzji."
+
+        ,"wyrok Sądu Apelacyjnego w Warszawie z dnia 14 września 2020 r., sygn. akt VII AGa 363/19; wyrok Sądu Okręgowego w Warszawie - Sądu Ochrony Konkurencji i Konsumentów z dnia 24 czerwca 2015 r., sygn. Akt XVII Arna 85/14"
+
+        ,"DOK-5/2013"
+
+        ,"31.12.2013"
+
+        , "-"
+
+        , "-"
+
+
+
+    ],
+
+
+
+    2: ["08.03.2022", "VII AGz 657/21", "SA", "Postanowienie", "Shell Exploration and Production (LXXI) B.V. z siedzibą w Hadze i inni", "Konkurencja", ["SA", "ograniczenie prawa do wglądu", "tajemnica przedsiębiorstwa", "dane historyczne"]
+
+        , "-"
+
+        , """Nieprawidłowe przyjęcie, że sporne informacje stanowią tajemnicę przedsiębiorstwa PGNiG, w sytuacji w której obejmowały (i) dane historyczne, (ii) dane stanowiące wynik prognoz co do przewidywanego wzrostu ceny gazu po potencjalnych uruchomieniu gazociągu Nord Stream 2 oraz (iii) dane zawarte w pismach procesowych stron postępowania przed Sądem Unii Europejskiej pod sygn. T-616/18, prowadzonego ze skargi PGNiG na decyzję Komisji w sprawie przyjęcia zobowiązań m.in. PJSC Gazprom z siedzibą w Moskwie, a tym samym stanowiły informacje,
+
+        które nie służą prowadzeniu przez PGNiG działalności gospodarczej w jakimkolwiek zakresie, a także - w zakresie pkt (ii) oraz (iii) - stanowią dane bezpośrednio służące PGNiG do zwalczania projektu budowy gazociągu Nord Stream 2, a tym samym dane, które nie mogą stanowić tajemnicy dla skarżących, gdyż dotyczą istoty zarzutów formułowanych wobec nich przez Prezesa UOKiK"""
+
+        , """Skarżący wskazują, że wartość gospodarczą dla przedsiębiorcy posiadają te dane, które mogą być przez niego wykorzystane w toku jego normalnej działalności gospodarczej, tymczasem Prezes UOKiK zasadnie podniósł, że zgodnie z poglądem ugruntowanym w orzecznictwie wartość gospodarczą posiadają dane świadczące o prowadzonej przez przedsiębiorcę polityce finansowej, jej zobowiązaniach względem kontrahentów, wierzytelnościach, inwestycjach i innych formach gospodarowania mieniem, stanowiące dla konkurentów źródło wiedzy, której ujawnienie mogłoby narazić przedsiębiorcę na straty.
+
+        Wartość gospodarczą posiadają zatem nie tylko informacje wykorzystywane w toku normalnej działalności gospodarczej, lecz także dane z tą działalnością związane i ją obrazujące. Sąd prawidłowo stwierdził spełnienie przesłanek zawartych w art. 11 ust. 2 uznk w stosunku do danych dotyczących kosztów działania PGNiG, prognoz kosztów przesyłu gazu i zdolności przesyłowych spółki, które posiadają wartość gospodarczą i biznesową. Słusznie także Sąd uznał za objęte tajemnicą przedsiębiorstwa informacje zawarte w opracowaniach i prognozach, skoro opracowania te oparto na danych stanowiących tajemnicę przedsiębiorstwa.
+
+        Ochroną objęto informacje dotyczące negocjacji i strategii negocjacyjnych, cen i warunków ich kształtowania oraz innych warunków kontraktowych łączących PGNiG z Gazprom, przy uwzględnieniu długości obowiązywania kontraktów. Skarżący podnosili, że zgodnie z utrwalonym orzecznictwem nie są tajne informacje, które takimi były, lecz pochodzą sprzed co najmniej pięciu lat, wobec czego należy je traktować jako dane historyczne, chyba że wyjątkowo podmiot chroniący te dane udowodni, że w dalszym ciągu stanowią one zasadnicze elementy strategii handlowej jego lub innego podmiotu -
+
+        W okolicznościach niniejszej sprawy należało uznać, że sporne dane w dalszym ciągu stanowią zasadniczy element strategii handlowej, co uzasadnia objęcie ich tajemnicą przedsiębiorstwa. Podnoszona przez skarżących okresowa zmiana cen wynikających z tych kontraktów nie stanowi jedynej informacji posiadającej dla przedsiębiorcy wartość gospodarczą. Istotne są bowiem również dane dotyczące negocjacji, warunków kształtowania cen i innych elementów kontraktów, kosztów działania przedsiębiorcy, prognoz kosztów przesyłu i zdolności przesyłowych.
+
+        Sąd Okręgowy doszedł do słusznego wniosku, że ograniczenie prawa wglądu nie utrudniło skarżącym prawa do obrony, co wynika z uzasadnienia decyzji Prezesa UOKIK z dnia 6 października 2020 r. nr DKK-178/2020. SOKiK w zaskarżonym postanowieniu słusznie przyjął, że brak jest argumentów za uznaniem, że ograniczenie prawa wglądu do tych informacji w sposób istotny uniemożliwia skarżącym skuteczną obronę w postępowaniu antymonopolowym. Należało zwrócić uwagę, że PGNiG S.A. nie miała statusu strony w postępowaniu antymonopolowym, udzieliła informacji na wezwanie Prezesa UOKiK,
+
+        a przekazane przez nią dokumenty nie zostały wytworzone na potrzeby tego postępowania antymonopolowego, lecz były już wcześniej w jej posiadaniu i ostatecznie nie posłużyły do ustalenia stanu faktycznego w uzasadnieniu decyzji."""
+
+    ,"postanowienie  Sądu  Okręgowego  w  Warszawie  –  Sądu  Ochrony  Konkurencji  i Konsumentów z dnia 4 listopada 2021 r., sygn. akt XVII Amz 341/20"
+
+    , "DKK-1.422.2.2018.ES"
+
+    , "06.10.2020"
+
+    , "-"
+
+    , "-"
+
+    ],
+
+
+
+    3:       ["30.11.2021",
+
+             "XVII AmA 42/20",
+
+             "SOKIK",
+
+             "Wyrok",
+
+             "BNP Paribas Bank Polska S.A. z siedzibą w Warszawie",
+
+             "ZIK",
+
+             ["ZIK","SOKIK", "kara pieniężna", "kumulacja praktyk", "komunikacja", "publikacja", "UPNPR", "przeciętny konsument"],
+
+             """1 - stosowanie materiałów reklamowych w postaci mailingu i banerów internetowych dotyczących kredytu gotówkowego o nazwie „Bumerang”, które zawierały hasło: „jeszcze tańszy kredyt gotówkowy” bez wskazania oferty, do której odnosiło się zawarte w nich porównanie, co uniemożliwiało zweryfikowanie jego prawdziwości, co naruszało art. 4 ust. 1 upnpr;
+
+2 - stosowanie materiałów reklamowych w postaci mailingu i banerów internetowych dotyczących kredytu gotówkowego o nazwie „iGotówka”, które zawierały hasło: „najszybszy kredyt gotówkowy” bez wskazania oferty, do której odnosiło się zawarte w nich porównanie, lub bez wskazania obiektywnego źródła, na podstawie którego powyższe hasło zostało sformułowane, co uniemożliwiało zweryfikowanie jego prawdziwości, co naruszało art. 4 ust. 1 upnpr;
+
+3 - stosowaniu materiałów reklamowych w postaci mailingu i banerów internetowych dotyczących kredytu gotówkowego o nazwie „iGotówka”, które zawierały hasła: „pieniądze na koncie nawet w 20 minut”, „przelew nawet w 20 minut” oraz „do 20 000 zł na koncie nawet w 20 minut”, sugerujące krótki okres oczekiwania na wypłatę kredytu od momentu złożenia pełnego wniosku kredytowego przez konsumenta, podczas gdy w rzeczywistości okres ten był znacznie dłuższy, co mogło wprowadzać przeciętnego konsumenta w błąd co do rzeczywistego okresu oczekiwania, i przez to naruszało art. 5 ust. 1 w zw. z 4 ust. 2 upnpr;
+
+4 - stosowanie materiałów reklamowych w postaci banerów internetowych dotyczących kredytu gotówkowego o nazwie „Kredyt Gotówkowy”, w których zamieszczono hasła „oprocentowanie już od 5,9%” i „prowizja już od 2,99%”, nie wskazując przy tym w sposób tak samo widoczny jak wyżej wymienione hasła wymagań, od jakich zależy uzyskanie kredytu na reklamowanych warunkach, co mogło wprowadzać przeciętnego konsumenta w błąd co do faktycznej dostępności reklamowego kredytu na tych warunkach, i przez to naruszało art. 5 ust. 1 i ust. 2 pkt 2 w zw. z art. 4 ust. 2
+
+""",
+
+             """Naruszenie art. 106 ust. 1 pkt 4 uokik w związku z art. 11 kk poprzez uznanie przez Pozwanego, że jeden czyn Powoda naruszający kilka podstaw prawnych (którego wystąpieniu Powód zaprzecza) może być karany kilkukrotnie, a w konsekwencji uznanie, że jedno zachowanie Powoda - polegające na reklamowaniu produktu finansowego „iGotówka” za pomocą haseł „najszybszy kredyt gotówkowy",
+
+             „pieniądze na koncie nawet w 20 minut”, „przelew nawet w 20 minut”, „do 20 000 zł na koncie nawet w 20 minut” -stanowi dwie odrębne praktyki naruszające zbiorowe interesy konsumentów (pkt I.2 i I.3. Decyzji), co z kolei skutkowało nałożeniem dwóch odrębnych kar pieniężnych (pkt. II.2 i II.3 Decyzji), podczas gdy czyn stwierdzony w punkcie I.2. i I.3. Decyzji dotyczył reklamy tego samego produktu (iGotówka), realizowanej za pomocą tych samych środków przekazu, w tym samym okresie i uwypuklającej tę samą cechę produktu (szybkość wpłaty środków z kredytu),
+
+             a zatem ewentualnie mógłby być co najwyżej uznany za jedną praktykę naruszającą zbiorowe interesy konsumentów. """
+
+           ,
+
+             """Sąd stwierdził, że wobec praktyki:
+
+I.2 - Używanie przez powoda w reklamie produktów bankowych określeń, które nie były jednoznaczne, naruszało prawo konsumenta do uzyskania jednoznacznego przekazu o cechach produktu i korzyściach związanych z jego nabyciem i ostatecznie mogło wpłynąć na zniekształcenie zachowania rynkowego przeciętnego konsumenta. Tym samym zachowanie powoda opisane wyżej, będące nieuczciwą praktyką rynkową o jakiej mowa w art. 4 ust 1 upnpr.
+
+I.3: Zważywszy więc, że w rzeczywistości powód jedynie w odniesieniu do około 1/3 wniosków kredytowych dokonał wypłaty kwoty kredytu w ciągu 20 minut i to od chwili pozytywnego rozpoznania wniosku kredytowego, a nie od jego złożenia, to reklama stosowana przez powoda wprowadzała w konsumentów błąd, którzy w oparciu o jej treść mogli sądzić, że chodzi o czas uzyskania dostępu do pieniędzy od złożenia wniosku, a nie jego rozpoznania.
+
+Takiej treści informacje zawarte w reklamie mogły więc wprowadzać przeciętnego konsumenta w błąd co do rzeczywistego okresu oczekiwania na otrzymanie kwoty kredytu. Zachowanie powoda stanowiło zatem nieuczciwą praktykę rynkową określoną w art. 5 ust. 1 upnpr w zw. z art. 4 ust. 2 upnpr.
+
+""",
+
+           "-",
+
+             "DOZIK-11/2019",
+
+             "30.12.2019",
+
+             "-",
+
+             "-"
+
+            ],
+
+
+
+    4: ["28.03.2022", "XVII AmA 59/20", "SOKIK", "Wyrok", "Mikrokasa Spółka Akcyjna w restrukturyzacji z siedzibą w Gdyni", "ZIK", ["ZIK","SOKIK", "opłata przygotowawcza", "przedterminowa spłata kredytu", "kredyt konsumencki", "skrócenie czasu obowiązywania umowy", "informowanie o zamiarze wcześniejszej spłaty kredytu", "wątpliwości interpretacyjne przepisów", "TSUE", "C-383/18", "dyrektywa 2008/48 - kredyt konsumencki", "UKK"]
+
+    , """1 - zachowanie MIKROKASA S.A. z siedzibą w Gdyni, polegające na nieobniżaniu, w przypadku przedterminowej spłaty kredytu konsumenckiego, całkowitego kosztu kredytu o koszty „opłaty przygotowawczej”, które dotyczą okresu, o który skrócono czas obowiązywania umowy, co jest niezgodne z art. 49 ust. 1 ustawy o kredycie konsumenckim;
+
+    2 - działanie MIKROKASA S.A. z siedzibą w Gdyni, polegające na uzależnianiu wcześniejszej spłaty kredytu od wcześniejszego poinformowania przez konsumenta o zamiarze dokonania takiej spłaty, co stanowi naruszenie art. 48 ust. 2 ustawy o kredycie konsumenckim"""
+
+    , """1 - nieuwzględnienie przez organ prokonsumenckiej postawy skarżącego w toku postępowania objawiającej się zmianami zapisów umownych w toku postępowania, a także niejasności przepisów w przypadku praktyki wskazanej w pkt I decyzji, które zostały rozstrzygnięte dopiero wyrokiem Trybunał Sprawiedliwości Unii Europejskiej z dnia 11 września 2019 r. w sprawie C-383/18, jak również faktu, iż skarżący nigdy wcześniej nie dopuścił się żadnej praktyki naruszającej zbiorowe interesy konsumentów;
+
+    2 - skarżący nigdy nie miał na celu utrudniania konsumentom wcześniejszej spłaty pożyczki, a użyte przez niego sformułowanie „O zamiarze dokonania spłaty Pożyczkobiorca powinien poinformować Pożyczkodawcę” nie stanowiło warunku, którego niedotrzymanie miałoby dla konsumenta jakiekolwiek negatywne konsekwencje"""
+
+    , """1 - Powód formułując zarzut nieuwzględnienie przez organ prokonsumenckiej postawy skarżącego w toku postępowania objawiającej się zmianami zapisów umownych w toku postępowania, a także niejasności przepisów w przypadku praktyki wskazanej w pkt I decyzji, sam sobie przeczy w dalszej części zarzutu. Skoro bowiem powód miał wątpliwości interpretacyjne, to trzymanie się niekorzystnej dla konsumenta wykładni aż do czasu rozstrzygnięć Trybunału Sprawiedliwości Unii Europejskiej ( wyrok z dnia 11 września 2019 r. w sprawie C-383/18) ,
+
+    w żadnym przypadku nie może być uznane za przejaw prokonsumenckiej postawy. Należy przy tym podkreślić, że skoro w niniejszej sprawie pozwany nie nałożył na powoda kary pieniężnej, to postawa powoda i jego subiektywne uwarunkowania nie miały znaczenia. Naruszenie art. 24 ustawy o ochronie konkurencji i konsumentów nie jest związane z istnieniem winy, czy nawet świadomości po stronie naruszającego. 2 - W sprawie jest bezsporne, że powód od dnia 19 grudnia 2018 r., przedsiębiorca stosował § 4 ust. 2 umowy, o treści:
+
+    „O zamiarze dokonania spłaty pożyczki przed terminem, Pożyczkobiorca może poinformować Pożyczkodawcę na co najmniej 3 dni przed planowanym terminem spłaty w celu wskazania mu kwoty niezbędnej do wcześniejszej całkowitej spłaty pożyczki albo wskazać Pożyczkodawcy, że dokonana wpłata ma być traktowana jako częściowa spłata pożyczki lub ma zostać zaliczona przez Pożyczkodawcę na spłatę kolejnych rat pożyczki, opłat oraz odsetek zgodnie z obowiązującą Umową oraz Harmonogramem spłat.
+
+    Treść tego zapisu jest jasna i jednoznacznie nakłada na konsumenta obowiązek poinformowania powoda o zamiarze dokonania spłaty pożyczki przed terminem na co najmniej 3 dni przed tą czynnością. Równocześnie powód nie przedstawił żadnego dowodu świadczącego że zgodny zamiar stron i cel umowy, nie odpowiadał jej dosłownemu brzmieniu. Nie jest, w związku z tym, trafny zarzut naruszenia art. 27 ust. 1 i ust 2 u.o.k.k., w związku z art. 24 ust. 1 i 2 u.o.k.k. oraz art. 48 ust. 2 u.k.k.,
+
+    gdyż bezprawne nałożenie na konsumenta uciążliwego obowiązku powiadamianie powoda o zamiarze spłaty pożyczki i konieczność czekania z tą czynnością 3 dni, miało dla konsumentów negatywne konsekwencje, gdyż pożyczkobiorca musiał ponosić koszty pożyczki przez ten czas."""
+
+    , "-"
+
+    , "RWR 06/2020"
+
+    , "06.07.2020"
+
+    , "-"
+
+    , "-"
+
+    ],
+
+
+
+    5: ["06.04.2022", "XVII AmA 74/20", "SOKIK", "Wyrok", "Telekomunikacja Stacjonarna sp. z o.o. w likwidacji w Warszawie", "ZIK", ["ZIK","SOKIK", "opłata wyrównawcza", "wprowadzanie w błąd", "brak pełnej dokumentacji", "opłata aktywacyjna", "agent", "kara finansowa", "UTP"]
+
+    ,"""1 - wprowadzające w błąd informowanie konsumentów, w związku ze składaniem propozycji zawarcia umowy o świadczenie usług telekomunikacyjnych, o przedmiocie oferowanej usługi i rzeczywistym celu rozmowy lub wizyty, przez sugerowanie, że składana oferta i dokumenty przedkładane konsumentom dotyczą zmiany warunków umowy zawartej z dotychczasowym usługodawcą, podczas gdy w rzeczywistości dotyczą zawarcia nowej umowy o świadczenie usług telekomunikacyjnych z Telekomunikacją Stacjonarną Spółką z ograniczoną odpowiedzialnością w likwidacji z siedzibą w Warszawie, a tym samym zmiany usługodawcy,
+
+    co stanowi nieuczciwą praktykę rynkową, o której mowa w art. 5 ust. 1, ust. 2 pkt 1 w zw. z art. 4 ust. 2 upnpr;
+
+2 - niedoręczanie konsumentom podczas zawierania umowy o świadczenie usług telekomunikacyjnych pełnej dokumentacji umownej, co stanowi nieuczciwą praktykę rynkową, o której mowa w art. 6 ust. 1, ust. 3 pkt 1 w zw. z art. 4 ust. 2 upnpr;
+
+3 - bezprawne zastrzeganie w umowie o świadczenie usług telekomunikacyjnych i pobieranie od konsumentów opłaty aktywacyjnej w sytuacji dokonania przez konsumenta wyboru Telekomunikacji Stacjonarnej Spółki z ograniczoną odpowiedzialnością w likwidacji z siedzibą w Warszawie jako dostawcy publicznie dostępnych usług telefonicznych przez numer dostępu, a następnie braku rozpoczęcia świadczenia konsumentowi usługi Abonamentu Telefonicznego – WLR wobec wycofania lub zmiany przez konsumenta zamówienia WLR, co narusza art. 72 ust. 2 i art. 57 ust. 5 upt;
+
+4 - bezprawne zastrzeganie w umowie o świadczenie usług telekomunikacyjnych i pobieraniu od konsumentów opłaty wyrównawczej w sytuacji dokonania przez konsumenta wyboru Telekomunikacji Stacjonarnej Spółki z ograniczoną odpowiedzialnością w likwidacji z siedzibą w Warszawie jako dostawcy publicznie dostępnych usług telefonicznych przez numer dostępu, a następnie braku rozpoczęcia świadczenia konsumentowi usługi Abonamentu Telefonicznego – WLR wobec wycofania lub zmiany przez konsumenta zamówienia WLR, co narusza art. 72 ust. 2 i art. 57 ust. 5 w związku z art. 57 ust. 6"""
+
+    ,"Uznanie, że wskazane w zaskarżonej Decyzji zachowanie naruszające zbiorowe interesy konsumentów podejmowane jest przez Spółkę, w sytuacji, gdy wszelkie działania związane z procesem zawierania umów były podejmowane przez pracowników/współpracowników podmiotów zewnętrznych współpracujących ze Spółką, a więc inny podmiot niż Powód"
+
+    ,"""Skoro zatem Agent umocowany do działania w imieniu i na rzecz Powoda zawierał w jego imieniu i na jego rzecz umowy, należy stwierdzić, że Telekomunikacja Stacjonarna stosowała kwestionowane praktyki związane z zawieraniem umów i była ich wyłącznym beneficjentem.
+
+Wszystkie działania podejmowane w ramach nieuczciwych praktyk rynkowych wpisują się bowiem w określony model odwzorowywany przez różne osoby występujące w imieniu Powoda. Powielanie danego schematu jest zaś symptomatyczne, gdyż świadczy o celowym instruowaniu pracowników. Przekazywanie konsumentom nieprawdziwych informacji o tożsamości Powoda świadczy o zamiarze wykorzystania mylnego przekonania konsumentów dla pozyskania jak największej liczby klientów i uzyskania maksymalnych zysków z zawierania umów o świadczenie usług telekomunikacyjnych, w tym z opłat, o których mowa w art. 57 ust. 6 Pt.
+
+Powód miał natomiast wiedzę na temat określonego sposobu działania osób zatrudnionych przez Agenta choćby ze skarg konsumentów jednoznacznie wskazujących na stosowanie rzeczonych nieuczciwych praktyk rynkowych, mimo tego praktyk tych nie wyeliminował, co najdobitniej potwierdza, że je akceptował i mu służyły.
+
+W przypadku praktyki z pkt I ppkt 1 Decyzji za wysoce naganne należy uznać udzielanie nieprawdziwych informacji o tożsamości Spółki, stwarzanie u konsumenta wyobrażenia, że jest dotychczasowym dostawcą usług telekomunikacyjnych oraz wprowadzanie w błąd na temat przygotowanej dla konsumentów oferty, ponieważ w wyniku tej praktyki dochodzi do zniekształcenia decyzji konsumentów. Praktyka ta uderza pośrednio w interesy ekonomiczne konsumentów, bowiem skutki finansowe tej praktyki mogą być dla nich bardzo niekorzystne.
+
+Jeżeli wszak umowa konsumenta z dotychczasowym dostawcą jest zawarta na czas oznaczony, który jeszcze nie upłynął, a konsument zdecyduje o jej jednostronnym rozwiązaniu, będzie co do zasady zobowiązany do poniesienia kosztów, o których mowa w art. 57 ust. 6 Pt. Dodatkowo, w przypadku rozwiązania umowy zawartej na czas oznaczony z Powodem, konsument będzie zobowiązany do poniesienia ww. opłat na rzecz Powoda, w tym stanie stopień szkodliwości praktyki jest znaczny.
+
+Praktyka z pkt I ppkt 2 godzi w podstawowe prawo konsumentów do otrzymania dokumentów umownych, a zatem co najmniej ogranicza możliwość zaznajomienia konsumentów z warunkami umownymi, uzyskania informacji w przedmiocie zawartej umowy, co najmniej utrudniając odstąpienie od umowy. Nie będąc też świadomym praw i obowiązków wynikających z dokonanej czynności prawnej, konsument może kontynuować umowę z Powodem wbrew swojej woli. Szkodliwość tej praktyki jest więc również znaczna.
+
+Poprzez stosowanie praktyki z pkt I ppkt 3 Decyzji Powód narusza przede wszystkim ekonomiczne interesy konsumenta, obciążając go opłatą aktywacyjną w sytuacji braku rozpoczęcia świadczenia konsumentowi usługi Abonamentu Telefonicznego – WLR. Powoduje to jednocześnie utrudnienie konsumentowi korzystania z prawa do zmiany dostawcy usług świadczącego usługi telekomunikacyjne poprzez numer dostępu.
+
+Podobnie poprzez stosowanie praktyki z pkt I ppkt 4 Powód narusza w szczególności ekonomiczne interesy konsumenta, obciążając go tym razem opłatą wyrównawczą w sytuacji braku rozpoczęcia świadczenia konsumentowi usługi Abonamentu Telefonicznego – WLR. Powoduje to jednocześnie utrudnienie konsumentowi korzystania z prawa do zmiany dostawcy usług świadczącego usługi telekomunikacyjne poprzez numer dostępu."""
+
+    , "-"
+
+    , "RŁO 4/2020"
+
+    , "06.06.2020"
+
+    , "-"
+
+    , "-"
+
+    ],
+
+
+
+    6: ["22.03.2022", "XVII Amz 47/21", "SOKIK", "Postanowienie", "Fundusz Inwestycyjny Yanok sp. z o.o. z siedzibą w Krakowie", "ZIK", ["ZIK","SOKIK", "rygor natychmiastowej wykonalności", "przeciętny konsument"]
+
+    ,"-"
+
+    , """1 - zastosowanie środka prewencyjnego w postaci rygoru natychmiastowej wykonalności Decyzji, podczas gdy był on nieproporcjonalny do zamierzonego celu, brak było funkcjonalnego powiązania środka z ochroną konsumentów, a zastosowany środek był nadmiernie uciążliwy dla Spółki;
+
+2 - nieuprawnione nadanie Decyzji rygoru natychmiastowej wykonalności, podczas gdy organ nie wykazał, by w sprawie zachodził ważny interes konsumentów uzasadniający wykonanie decyzji przed jej kontrolą sądową"""
+
+    , """1 - Nadanie rygoru natychmiastowej wykonalności nie przesądza o zaprzestaniu prowadzenia aktywności przez Spółkę, a zmierza do zaprzestania prowadzenia takiego modelu pozyskiwania kapitału, który cechuje się dysproporcją w prawach obowiązkach inwestorów i podmiotów korzystających z kapitału. Sąd podziela pogląd pozwanego, że w tej sprawie organ nie dopuścił się „nieprzychylności” wobec wykonywanej przez powoda działalności.
+
+2 - Zdaniem Sądu charakter praktyk powoda powoduje, że konsumenci biorąc udział w przedsięwzięciu, którego charakter ekonomiczny i prawny nie jest dla nich w pełni zrozumiały. Stąd poprzez stosowanie praktyk określonych w punkcie I i II sentencji Decyzji, naruszany jest interes konsumentów uprawniający ich do uczestnictwa w przejrzystych i niezakłóconych warunkach rynkowych."""
+
+    , "-"
+
+    , "RWR 2/2021"
+
+    , "11.06.2021"
+
+    , "-"
+
+    , "-"
+
+    ],
+
+
+
+    7: ["17.03.2022", "XVII Amz 49/21", "SOKIK", "Postanowienie", "Veolia Energia Polska Spółka Akcyjna z siedzibą w Warszawie i inni", "Konkurencja", ["SOKIK", "ograniczenie prawa do wglądu", "tajemnica przedsiębiorstwa", "dane historyczne", "braki formalne"]
+
+    ,"-"
+
+    , """Spółka wyjaśniła, że zakresem wniosku objęto informacje oraz dokumenty adresowane lub odnoszące się do pracowników VEP lub VEP jako organizacji. Wnioskodawca wskazał, że szczegółowy wykaz tych informacji i dokumentów, wraz ze wskazaniem poszczególnych stron prowadzonego postępowania, został przedstawiony w załączniku. VEP wskazał także, że przedmiotowe informacje i dokumenty „dotyczą istotnych danych o działalności gospodarczej VEP, które stanowią tajemnicę handlową przedsiębiorstwa VEP w rozumieniu art. 11 ust. 2 ustawy z 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz.U. z 2019, poz. 1649).
+
+    Nie są one podawane do wiadomości publicznej i VEP podejmuje niezbędne kroki w celu utrzymania ich w tajemnicy.
+
+    Ponadto zarzuciła naruszenie art. 69 ust. 4a uokik poprzez jego niezastosowanie i zaniechanie wezwania Powoda do uzupełnienia wniosku o ograniczenie prawa wglądu do materiału dowodowego w przypadku stwierdzenia, że złożony wniosek o ograniczenie prawa wglądu nie zawierał odpowiedniego uzasadnienia, tym samym nie spełniał wymagań określonych w art. 69 ust. 4 u.o.k.k."""
+
+    , """Powód wskazywał na wartość gospodarczą jedynie ogólnie, powielając tę przesłankę przy każdym dokumencie. Powód zaniechał jednak dostatecznego zindywidualizowania oceny treści i podstaw do wyłączenia dostępu określonych stron postępowania antymonopolowego do wnioskowanych informacji i dokumentów. Nie wykazał potencjalnego ryzyka, tylko generalnie stanął na stanowisku (w zażaleniu i załącznika zażalenia), że: informacje dotyczące struktury i wielkości kosztów, jak również prognozowanego wpływu czynników zewnętrznych na nie, zakładanego poziomu kosztów i przychodów z planowanych inwestycji oraz współpracy z kontrahentami, włącznie z rozważanymi scenariuszami ich opłacalności;
+
+    informacje zawarte w wewnętrznych notatkach referujących rozmowy z kontrahentem; strategiczne założenia negocjacji prowadzonych z kontrahentami - stanowią tajemnicę przedsiębiorcy, gdyż posiadają dla niego wartość gospodarczą. Powód nie przedstawił przekonywującego wyjaśnienia, że ujawnienie tych danych może obecnie zagrozić ekonomicznym interesom powodowej spółki, a teza o możliwości wykorzystania tych danych przez konkurentów jest ogólna, abstrakcyjna i niewystarczająca dla zastosowania wyjątku od zasady - prawa strony do wglądu do materiału dowodowego załączonego do akt sprawy. (...)
+
+Informacje wskazane w pkt. 3.2.2. Postanowienia mogą stanowić dowód naruszenia i są niezbędne dla prawidłowej oceny zachowania stron postępowania, a zachowanie dostępu do nich jest konieczne dla realizacji prawa do obrony innych stron postępowania.
+
+<Dodatkowo sąd podziela poglądy w zakresie danych historycznych wyrażone w Wytycznych Komisji Europejskiej w sprawie stosowania art. 101 Traktatu o funkcjonowaniu Unii Europejskiej do horyzontalnych porozumień kooperacyjnych (Dz. U. C 11 z 14 stycznia 2011 r., pkt 90) oraz stanowisku Komisji Europejskiej zawarte w Obwieszczeniu dotyczącym zasad dostępu do akt Komisji w sprawach na mocy art. 81 i 82 Traktatu WE (obecnie art 101 i 102 TFUE ), art. 53, 54 i 57 Porozumienia EOG oraz rozporządzeniem Rady (WE) nr 139/2004, pkt 23>.
+
+<W zakresie braków formalnych wniosku: Należy tu bowiem odróżnić brak formalny wniosku w postaci złożenia wniosku bez uzasadnienia, tj. jego braku, od sytuacji gdy wniosek zawiera uzasadnienie, a jedynie przy merytorycznym rozpoznawaniu wniosku okazuje się, że argumentacja w nim zawarta nie uzasadnia uwzględnienia wniosku, tak jak miało to miejsce w niniejszej sprawie. Pozwany nie był zatem zobligowany do wezwania powoda do uzupełnienia braku formalnego wniosku poprzez złożenie dokumentu zawierającego uzasadnienie wniosku.>"""
+
+    , "-"
+
+    , "DOK.L410.1.2019.PD"
+
+    , "31.07.2020"
+
+    , "-"
+
+    , "-"
+
+    ],
+
+
+
+}
